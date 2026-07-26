@@ -2,10 +2,10 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
+- Student name: Isabella Wallace
+- GitHub username: pwallace1203
+- Project title: GoalMap: Goal Management Planner
+- Application purpose: GoalMap is a goal management application that helps students organize, track, and manage personal and academic goals.
 
 ## How to Run the Application
 
